@@ -4,11 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c8e325-039d-4c7d-b789-e932105ced4f" name="Changes" comment="">
+    <list default="true" id="f9c8e325-039d-4c7d-b789-e932105ced4f" name="Changes" comment="Created SQLite database of TWM data">
+      <change afterPath="$PROJECT_DIR$/data/clean/main/sqlite_master.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_accounts.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_checking_acct.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_checking_tran.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_credit_acct.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_credit_tran.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_customer.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_savings_acct.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_savings_tran.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/clean/main/twm_transactions.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccb8b367-164e-4a3e-8d7d-08a4447047c3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ccb8b367-164e-4a3e-8d7d-08a4447047c3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/banking-behavior.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/banking-behavior.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/customer-data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_accounts.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_checking_acct.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_checking_tran.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_credit_acct.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_credit_tran.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_customer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_savings_acct.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_savings_tran.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clean/twm_transactions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/twm.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/twm.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-project-III.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini-project-III.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +49,28 @@
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thowe/Projects/LighthouseLabs/financial-transactions-project",
+    "last_opened_file_path": "C:/Users/thowe/Projects/LighthouseLabs/financial-transactions-project/data/clean/twm_transactions.csv",
     "settings.editor.selected.configurable": "MTConfigurable"
   }
 }]]></component>
+  <component name="SQLScriptSettings">
+    <option name="outputLayout" value="File per object by schema.groovy" />
+    <option name="outputPath" value="C:\Users\thowe\Projects\LighthouseLabs\financial-transactions-project\data" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created SQLite database of TWM data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created SQLite database of TWM data" />
+  </component>
 </project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="47d101ab-f206-4431-ae7d-f500e372e46d" name="twm.db Mapping">
+      <data-sources db="ccb8b367-164e-4a3e-8d7d-08a4447047c3" ddl="9e838499-a4c8-414f-b8c8-10b92c68d4be" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="9e838499-a4c8-414f-b8c8-10b92c68d4be" />
+          <option name="name" value="twm.db (DDL)" />
+          <option name="languageId" value="SQLite" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/data/clean" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
